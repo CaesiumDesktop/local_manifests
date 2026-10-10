@@ -3,5 +3,6 @@
   <!-- Device -->
   <project path="device/apple/snowcastle" name="android_device_apple_snowcastle" groups="mainline,mainline_device_misc" remote="Mainline" />
   <project path="device/mainline/generic" name="android_device_mainline_generic" groups="mainline,mainline_device_misc" remote="Mainline" />
+  <project path="packages/apps/MainlineGenericSystemInstaller" name="android_packages_apps_MainlineGenericSystemInstaller" groups="mainline,mainline_device_misc" remote="Mainline" />
   <project path="device/pc/basic_x86_64_pc" name="android_device_pc_basic_x86_64_pc" groups="mainline,mainline_device_misc" remote="Mainline" />
 </manifest>
