@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <!-- HALs -->
-  <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" groups="mainline,mainline_dep_lineageos,mainline_dep_lineageos_default" remote="Mainline-dep-LineageOS" />
-
-  <!-- Inline kernel build -->
-  <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" clone-depth="1" groups="mainline,mainline_dep_lineageos,mainline_dep_lineageos_default" remote="Mainline-dep-LineageOS" />
-</manifest>
